@@ -15,10 +15,10 @@ var connectionString = $"Host={Environment.GetEnvironmentVariable("DB_HOST")};" 
 $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")}";
 
 builder.Services.AddDbContext<AppDbContext>(options => 
-    options.UseNpgsql(connectionString)); 
- 
-builder.Services.AddScoped<IScheduleService, IScheduleService>(); 
- 
+    options.UseNpgsql(connectionString));
+
+builder.Services.AddScoped<IScheduleService, ScheduleService>();
+
 builder.Services.AddControllers(); 
 // Learn more about configuring Swagger/OpenAPI at 
 https://aka.ms/aspnetcore/swashbuckle 
