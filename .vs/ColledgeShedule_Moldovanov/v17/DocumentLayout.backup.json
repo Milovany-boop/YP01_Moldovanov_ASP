@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColledgeShedule_Moldovanov",
+              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "RelativeToolTip": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T07:50:02.879Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
