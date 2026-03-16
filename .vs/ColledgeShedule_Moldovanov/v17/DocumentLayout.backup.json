@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|c:\\users\\alfa\\desktop\\matvey\\practica\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{146ED8CF-8552-43D1-934F-2D45C46E8981}|ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj|solutionrelative:colledgeshedule_moldovanov\\colledgeshedule_moldovanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,44 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\.env",
+              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\.env",
+              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\.env",
+              "RelativeToolTip": "ColledgeShedule_Moldovanov\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-16T09:26:16.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ColledgeShedule_Moldovanov\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:17:23.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
-              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
-              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
-              "RelativeToolTip": "ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:45:03.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
-              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
-              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
-              "RelativeToolTip": "ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:39:07.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Specialty.cs",
@@ -112,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\LessonTime.cs",
@@ -124,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\LessonGroupPart.cs",
@@ -136,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Classroom.cs",
@@ -148,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Teacher.cs",
@@ -160,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Subject.cs",
@@ -172,7 +164,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColledgeShedule_Moldovanov.csproj",
+              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "RelativeToolTip": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T07:50:02.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
+              "RelativeToolTip": "ColledgeShedule_Moldovanov\\Models\\StudentGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:39:07.128Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
+              "RelativeToolTip": "ColledgeShedule_Moldovanov\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:45:03.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Weekday.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Weekday.cs",
@@ -184,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\Models\\Building.cs",
               "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\Models\\Building.cs",
@@ -193,18 +222,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T08:36:42.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ColledgeShedule_Moldovanov.csproj",
-              "DocumentMoniker": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
-              "RelativeDocumentMoniker": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
-              "ToolTip": "C:\\Users\\Alfa\\Desktop\\Matvey\\practica\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
-              "RelativeToolTip": "ColledgeShedule_Moldovanov\\ColledgeShedule_Moldovanov.csproj",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T07:50:02.879Z"
             },
             {
               "$type": "Bookmark",
