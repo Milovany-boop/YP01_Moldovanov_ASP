@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColledgeShedule_Moldovanov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9553ba7c9b3d3e7cac8b8904e9a47907cbc6d2ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af68cc9ce73939bcf0ba7d5470b588a92a78063")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColledgeShedule_Moldovanov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColledgeShedule_Moldovanov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
